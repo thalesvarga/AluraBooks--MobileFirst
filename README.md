@@ -1,4 +1,4 @@
- [AluraBooks -- Mobile First](img/aluraBooks.png)
+ ![AluraBooks -- Mobile First] (img/aluraBooks.png)
  
  ## AluraBooks - Mobile First
 
